@@ -1,6 +1,6 @@
 # .github
-Blockchain and Future Society
-
-
-Please visit the home page of this course offerred at GIST in Spring 2023. 
+This is a site for the Blockchain and Future Society (BFS) course offerred at GIST in 2023.
+Please visit the home page of this course to find out about the course. 
+It introduces the need for a global new currency system. It offers introductory discussions on the bitcoin and ethereum technologies. 
+Based on a new consensus mechanism, it gives an introduction to a new mainnet called WorldLand. 
 https://heungno.net/wp-admin/post.php?post=27764&action=edit
